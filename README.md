@@ -9,7 +9,8 @@ Scales:
   * major pentatonic
   * minor pentatonic
   * all notes
-Intruments
+
+Intruments:
   * guitar
   * bass guitar
   * ukulele
