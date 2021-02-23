@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/guitar-notes-fretboard/precache-manifest.5e2f2f9d0b3bc742ae37061c5e004abd.js"
+  "/guitar-notes-fretboard/precache-manifest.cde4e0b04bcc2ba06a0ac19f49c42f7b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "guitar-notes-fretboard"});
