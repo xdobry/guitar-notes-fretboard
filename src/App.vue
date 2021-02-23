@@ -57,7 +57,7 @@
               <canvas id="canvas" width="1800px" height="400px"></canvas>
             </div>
             <div>
-                Programmed by xdobry <a href="https://github.com/xdobry/guitar-notes-fredboard">source on github</a>. No cookies here!
+                Programmed by xdobry <a href="https://github.com/xdobry/guitar-notes-fretboard">source on github</a>. No cookies here!
             </div>
         </div>
       </md-app-content>
